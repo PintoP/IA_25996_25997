@@ -1,5 +1,20 @@
-# IA24_25997_25996
-Trabalho prático de Inteligência Artificial, feito por Leandro Ferreira (25997) e Pedro Pinto (25996)
+# AI and Machine Learning Experiments
 
+This repository contains Jupyter notebooks exploring basic artificial intelligence and machine learning techniques.
 
-Link repositorio : https://github.com/leandroleites/IA24_25997_25996
+## 🚀 Features
+- Data analysis and visualization  
+- Model training and evaluation  
+- Experiment tracking
+
+## 🛠️ Technologies Used
+- Python  
+- Jupyter Notebook  
+- pandas, NumPy, scikit-learn
+
+## 🧠 What I Learned
+- Building and testing machine learning models  
+- Working with datasets and data preprocessing  
+- Understanding evaluation metrics
+
+## 📂 Project Structure
